@@ -1,2 +1,2 @@
 # stuffynose
-Stuff for noses.
+Just stuff for helping keep your nose unblocked.
