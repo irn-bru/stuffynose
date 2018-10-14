@@ -1,0 +1,4 @@
+104.236.227.45 nfl.directv.com
+107.6.182.249 playback.svcs.mlb.com
+107.6.182.249 mlb-ws-mf.media.mlb.com
+107.6.182.249 mf.svc.nhl.com
