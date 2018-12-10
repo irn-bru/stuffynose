@@ -1,0 +1,25 @@
+104.236.227.45 nfl.directv.com
+178.62.203.238 playback.svcs.mlb.com
+178.62.203.238 mlb-ws-mf.media.mlb.com
+178.62.203.238 mf.svc.nhl.com
+104.236.227.45 nfl.directv.com
+
+2001::104.236.227.45 nfl.directv.com
+2001::68ec.e32d nfl.directv.com
+2002::104.236.227.45 nfl.directv.com
+2002::68ec.e32d nfl.directv.com
+178.62.203.238 playback.svcs.mlb.com
+2001::178.62.203.238 playback.svcs.mlb.com
+2001::bee:cbee playback.svcs.mlb.com
+2002::178.62.203.238 playback.svcs.mlb.com
+2002::bee:cbee playback.svcs.mlb.com
+178.62.203.238 mlb-ws-mf.media.mlb.com
+2001::178.62.203.238 mlb-ws-mf.media.mlb.com
+2001::bee:cbee mlb-ws-mf.media.mlb.com
+2002::178.62.203.238 mlb-ws-mf.media.mlb.com
+2002::bee:cbee mlb-ws-mf.media.mlb.com
+178.62.203.238 mf.svc.nhl.com
+2001::178.62.203.238 mf.svc.nhl.com
+2001::bee:cbee mf.svc.nhl.com
+2002::178.62.203.238 mf.svc.nhl.com
+2002::bee:cbee mf.svc.nhl.com
